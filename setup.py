@@ -37,7 +37,7 @@ setup(
     description="Verbatim AI API",
     author="Verbatim AI API Helpdesk",
     author_email="api@verbatim.cloud",
-    url="",
+    url="https://github.com/verbatim-ai/verbatim-python-client",
     keywords=["OpenAPI", "OpenAPI-Generator", "Verbatim AI API"],
     install_requires=REQUIRES,
     packages=find_packages(exclude=["test", "tests"]),
